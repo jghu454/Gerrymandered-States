@@ -1,0 +1,23 @@
+Vector usage:
+
+*********************************************************
+ourvector<17StateDistrictInfo> stats:
+ # of vectors created:   52
+ # of elements inserted: 601
+ # of elements accessed: 724
+*********************************************************
+*********************************************************
+ourvector<9ourvectorI17StateDistrictInfoE> stats:
+ # of vectors created:   1
+ # of elements inserted: 10
+ # of elements accessed: 109
+*********************************************************
+
+Commands used:
+load districts_short.txt eligible_voters_short.txt
+search illinois
+stats
+plot
+exit
+
+Vector analysis:
